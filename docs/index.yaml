@@ -2,30 +2,30 @@ apiVersion: v1
 entries:
   dependencygraph-chart:
   - apiVersion: v1
-    created: "2021-03-10T08:50:08.659405+05:30"
+    created: "2021-05-06T16:00:11.791214+05:30"
     description: Dependency Graph Tool
     digest: 8aa2aa14eb933d7c6418a8f2fc24b995d3c0a19692d90839f31d947afbb71151
     name: dependencygraph-chart
     urls:
-    - https://rameshpoomalai.github.io/helmrepo/dependencygraph-chart-0.1.0.tgz
+    - docs/dependencygraph-chart-0.1.0.tgz
     version: 0.1.0
-  fintechsolution-chart:
-  - apiVersion: v1
-    created: "2021-03-10T08:50:08.659814+05:30"
-    description: Fintechsolution
-    digest: 14f115c22da0cfa1f3c62614ba7f47c7b5a440a3c65415485bdf0c9e43dabb12
-    name: fintechsolution-chart
-    urls:
-    - https://rameshpoomalai.github.io/helmrepo/fintechsolution-chart-2.0.2.tgz
-    version: 2.0.2
-  fundtransfer:
+  fintechlendingjourneyv2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-03-10T08:50:08.660276+05:30"
+    created: "2021-05-06T16:00:11.791832+05:30"
     description: A Helm chart for Kubernetes
-    digest: a32fee5b2118147787ecc86a0cc26a4af5c5a4d30a437bea1af0e05144d7a2c1
-    name: fundtransfer
+    digest: d2515fe46c57e6c06a90819b6407c4cbba8c9a2a3db96b4f1ff88f6e3331305c
+    name: fintechlendingjourneyv2
     urls:
-    - https://rameshpoomalai.github.io/helmrepo/fundtransfer-1.0.0.tgz
+    - docs/fintechlendingjourneyv2-1.0.0.tgz
     version: 1.0.0
-generated: "2021-03-10T08:50:08.658909+05:30"
+  fintechsolution-chart:
+  - apiVersion: v1
+    created: "2021-05-06T16:00:11.792292+05:30"
+    description: Fintechsolution
+    digest: 7b74f71046667c42d0cf7d790ad5a087de09439e73f1b8c35b4ae29e99e9fb49
+    name: fintechsolution-chart
+    urls:
+    - docs/fintechsolution-chart-2.0.2.tgz
+    version: 2.0.2
+generated: "2021-05-06T16:00:11.789515+05:30"
