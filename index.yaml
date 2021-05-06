@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   dependencygraph-chart:
   - apiVersion: v1
-    created: "2021-04-30T11:44:01.805107+05:30"
+    created: "2021-05-06T13:35:21.315263+05:30"
     description: Dependency Graph Tool
     digest: 8aa2aa14eb933d7c6418a8f2fc24b995d3c0a19692d90839f31d947afbb71151
     name: dependencygraph-chart
@@ -12,7 +12,16 @@ entries:
   fintechlendingjourneyv2:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-04-30T11:44:01.805617+05:30"
+    created: "2021-05-06T13:35:21.316834+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 78decf5567c38076b5a0b0810a0b37c6b84b4b0838051683d1d25fcc7ae8077d
+    name: fintechlendingjourneyv2
+    urls:
+    - docs/fintechlendingjourneyv2-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-05-06T13:35:21.316391+05:30"
     description: A Helm chart for Kubernetes
     digest: d2515fe46c57e6c06a90819b6407c4cbba8c9a2a3db96b4f1ff88f6e3331305c
     name: fintechlendingjourneyv2
@@ -21,7 +30,7 @@ entries:
     version: 1.0.0
   fintechsolution-chart:
   - apiVersion: v1
-    created: "2021-04-30T11:44:01.806381+05:30"
+    created: "2021-05-06T13:35:21.317408+05:30"
     description: Fintechsolution
     digest: 14f115c22da0cfa1f3c62614ba7f47c7b5a440a3c65415485bdf0c9e43dabb12
     name: fintechsolution-chart
@@ -31,11 +40,11 @@ entries:
   fundtransfer:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-04-30T11:44:01.807191+05:30"
+    created: "2021-05-06T13:35:21.318157+05:30"
     description: A Helm chart for Kubernetes
     digest: 91d9ef45d947a456e31ea4a7b6b59fd3e28fb6adf04c41c3e5eb83d59d8a4cc1
     name: fundtransfer
     urls:
     - docs/fundtransfer-1.0.0.tgz
     version: 1.0.0
-generated: "2021-04-30T11:44:01.803657+05:30"
+generated: "2021-05-06T13:35:21.313898+05:30"
